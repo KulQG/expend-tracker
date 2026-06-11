@@ -2,7 +2,7 @@
 
 Fullstack приложение для учёта расходов. Оффлайн-first (PWA) с синхронизацией через SSE.
 
-**Stack:** React 19 + Vite + Mantine · Express 5 + Prisma · PostgreSQL · Docker
+**Stack:** React 19 + Vite + Chakra UI · Express 5 + Prisma · PostgreSQL · Docker
 
 ---
 
