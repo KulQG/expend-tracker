@@ -17,8 +17,6 @@ cd expend-tracker
 cp .env.example .env
 ```
 
-Отредактировать `.env` — минимум поменять `POSTGRES_PASSWORD`.
-
 ### 2. Запустить одной командой
 
 ```bash
